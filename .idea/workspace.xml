@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ef96cf4-7e96-43a5-945e-c81ab952cc39" name="Changes" comment="Added some comments">
+      <change afterPath="$PROJECT_DIR$/src/ca/durhamcollege/RandomVector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/durhamcollege/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/durhamcollege/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +119,7 @@
       <workItem from="1637375841552" duration="5350000" />
       <workItem from="1637546135700" duration="2504000" />
       <workItem from="1637849972773" duration="2935000" />
-      <workItem from="1637861339871" duration="868000" />
+      <workItem from="1637861339871" duration="7197000" />
     </task>
     <task id="LOCAL-00001" summary="completed Vector2D example">
       <created>1637381128690</created>
