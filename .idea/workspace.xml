@@ -92,7 +92,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ca.durhamcollege.Main" />
-      <module name="OOP3200_F2021_ICE10" />
+      <module name="OOP3200_F2021_ICE11" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
