@@ -1,8 +1,8 @@
 /** Vector2D.java
  * @author          Russell Waring
- * @file            OOP3200 - ICE 10
- * @date            November 25th, 2021
- * @description     The tenth in-class exercise, during week 11 of OOP3200. Copied ICE 9 as a base to this.
+ * @file            OOP3200 - ICE 11
+ * @date            November 29th, 2021
+ * @description     The eleventh in-class exercise, during week 12 of OOP3200. Using ICE10 as a base.
  */
 package ca.durhamcollege;
 
