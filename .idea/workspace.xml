@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ef96cf4-7e96-43a5-945e-c81ab952cc39" name="Changes" comment="Added some comments">
+    <list default="true" id="1ef96cf4-7e96-43a5-945e-c81ab952cc39" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/durhamcollege/utility/Mathf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/durhamcollege/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/durhamcollege/core/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/durhamcollege/RandomVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/durhamcollege/utility/RandomVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/durhamcollege/Vector2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/durhamcollege/utility/Vector2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +97,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ca.durhamcollege.Main" />
+      <option name="MAIN_CLASS_NAME" value="ca.durhamcollege.core.Main" />
       <module name="OOP3200_F2021_ICE11" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -121,6 +127,9 @@
       <workItem from="1638193306819" duration="680000" />
       <workItem from="1638195432061" duration="19000" />
       <workItem from="1638198975936" duration="614000" />
+      <workItem from="1638200330911" duration="868000" />
+      <workItem from="1638207342127" duration="2717000" />
+      <workItem from="1638309579558" duration="4640000" />
     </task>
     <task id="LOCAL-00001" summary="completed Vector2D example">
       <created>1637381128690</created>
@@ -136,7 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1637381232639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1638200503551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638200503551</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1638200519494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638200519494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1638200527799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638200527799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed Vector2D example" />
     <MESSAGE value="Added some comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some comments" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
